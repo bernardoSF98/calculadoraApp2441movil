@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CalculadoraAppMovil</string>
+    <string name="texto1">Hola Mundo</string>
+    <string name="texto2">Hola Bebecito</string>
+    <string name="texto3">Hola Mama</string>
+    <string name="btn_saludar">SALUDAR</string>
 </resources>
